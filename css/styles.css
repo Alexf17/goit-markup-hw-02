@@ -89,7 +89,9 @@ body {
     letter-spacing: 0.06em;
     color: #212121;
 }
-
+.button-grey:hover,
+.button-grey:focus {
+    color: #2196F3;
 /*----------Features-------*/
 
 .features-title {
